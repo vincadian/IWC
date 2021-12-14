@@ -13,7 +13,7 @@ Withdraw : IBAN+address -> script -> fiat added to bank account
 
 
 Stripe :  
-Ammount + adress -> script -> crypto added to adress
+Amount + adress -> script -> crypto added to adress
 
 
 
