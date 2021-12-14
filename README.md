@@ -20,4 +20,6 @@ Amount + adress -> script -> crypto added to adress
 [End goal solution]
 
 
+
+
 Security point : 
