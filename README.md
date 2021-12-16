@@ -10,7 +10,7 @@ Communication between bank database and blockchain without middle man.
 [Interim solution]
 
 Sepa:  
-Adding : IBAN+address -> script -> crypto added to adress  
+Deposit : IBAN+address -> script -> crypto added to adress  
 Withdraw : IBAN+address -> script -> fiat added to bank account  
 
 
